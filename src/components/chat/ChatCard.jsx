@@ -9,7 +9,7 @@ import MessageInput from "./components/MessageInput";
 
 export default function ChatCard() {
   return (
-    <Card bgColor={"white"} borderRadius={"20px"} boxShadow={"lg"} w={"30%"}>
+    <Card bgColor={"white"} borderRadius={"20px"} boxShadow={"lg"} w={"20%"}>
       <Box w={"100%"} h={"100%"} p={"4px"}>
         <ChatHeader />
         <ChatbotMsg />
