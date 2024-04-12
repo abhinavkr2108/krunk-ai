@@ -20,7 +20,7 @@ export default function ChatHeader() {
               backgroundColor={"white"}
               mr={"8px"}
             >
-              <Image src="/public/chatbot.png" objectFit={"fill"} />
+              <Image src="/chatbot.png" objectFit={"fill"} />
             </Box>
             <Box>
               <VStack alignItems={"flex-start"} spacing={"0px"}>
